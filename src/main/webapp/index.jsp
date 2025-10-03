@@ -8,7 +8,7 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet 3</a><br>
+<a href="hello-servlet">Hello Servlet 34</a><br>
 <a href="vue.jsp">@ the new vew</a>
 </body>
 </html>
